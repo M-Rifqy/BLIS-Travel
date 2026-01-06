@@ -103,7 +103,8 @@ Route::prefix('admin')
             });
     });
 
-// Client
+
+    // Client
 Route::prefix('client')
     ->name('client.')
     ->middleware(['auth', 'role:client'])

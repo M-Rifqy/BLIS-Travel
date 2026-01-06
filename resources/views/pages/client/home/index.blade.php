@@ -13,11 +13,10 @@
 
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
           <div class="hero-text">
-            <h1>Explore the World & Create Unforgettable Moments</h1>
+            <h1>INTERNATIONAL SEMINAR ON ISLAMIC EDUCATION (ISIE)</h1>
             <p>
-              Bersama kami, setiap perjalanan dan acara menjadi pengalaman berharga. 
-              Kami menghadirkan layanan <strong>Travel dan Event Organizer</strong> profesional — 
-              dari trip wisata eksklusif, corporate gathering, hingga konser entertainment.
+ "Integrating Islamic Education and Knowledge
+ for Global Competitiveness"
             </p>
 
             <div class="hero-stats">
@@ -35,10 +34,10 @@
               </div>
             </div>
 
-            <div class="hero-buttons">
-              <a href="#packages" class="btn btn-primary">Lihat Paket Perjalanan</a>
-              <a href="#about" class="btn btn-outline">Tentang Kami</a>
-            </div>
+            <!--<div class="hero-buttons">-->
+            <!--  <a href="#packages" class="btn btn-primary">Lihat Paket Perjalanan</a>-->
+            <!--  <a href="#about" class="btn btn-outline">Tentang Kami</a>-->
+            <!--</div>-->
 
             <div class="hero-features">
               <div class="feature">
@@ -60,39 +59,39 @@
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
           <div class="hero-image">
             <div class="main-image">
-              <img src="assets/client/img/education/courses-13.webp" alt="Travel & Event" class="img-fluid">
+              <img src="assets/client/img/bg/banner.jpg" alt="Travel & Event" class="img-fluid">
             </div>
 
-            <div class="floating-cards">
-              <div class="course-card" data-aos="fade-up" data-aos-delay="300">
-                <div class="card-icon">
-                  <i class="bi bi-airplane"></i>
-                </div>
-                <div class="card-content">
-                  <h6>Private Trip</h6>
-                  <span>Bali, Lombok, Singapore</span>
-                </div>
-              </div>
+            <!--<div class="floating-cards">-->
+            <!--  <div class="course-card" data-aos="fade-up" data-aos-delay="300">-->
+            <!--    <div class="card-icon">-->
+            <!--      <i class="bi bi-airplane"></i>-->
+            <!--    </div>-->
+            <!--    <div class="card-content">-->
+            <!--      <h6>Private Trip</h6>-->
+            <!--      <span>Bali, Lombok, Singapore</span>-->
+            <!--    </div>-->
+            <!--  </div>-->
 
-              <div class="course-card" data-aos="fade-up" data-aos-delay="400">
-                <div class="card-icon">
-                  <i class="bi bi-music-note-beamed"></i>
-                </div>
-                <div class="card-content">
-                  <h6>Event & Entertainment</h6>
-                  <span>Concert, Gathering, Wedding</span>
-                </div>
-              </div>
+              <!--<div class="course-card" data-aos="fade-up" data-aos-delay="400">-->
+              <!--  <div class="card-icon">-->
+              <!--    <i class="bi bi-music-note-beamed"></i>-->
+              <!--  </div>-->
+              <!--  <div class="card-content">-->
+              <!--    <h6>Event & Entertainment</h6>-->
+              <!--    <span>Concert, Gathering, Wedding</span>-->
+              <!--  </div>-->
+              <!--</div>-->
 
-              <div class="course-card" data-aos="fade-up" data-aos-delay="500">
-                <div class="card-icon">
-                  <i class="bi bi-briefcase"></i>
-                </div>
-                <div class="card-content">
-                  <h6>Corporate Tour</h6>
-                  <span>Meeting, Outbound, MICE</span>
-                </div>
-              </div>
+              <!--<div class="course-card" data-aos="fade-up" data-aos-delay="500">-->
+              <!--  <div class="card-icon">-->
+              <!--    <i class="bi bi-briefcase"></i>-->
+              <!--  </div>-->
+              <!--  <div class="card-content">-->
+              <!--    <h6>Corporate Tour</h6>-->
+              <!--    <span>Meeting, Outbound, MICE</span>-->
+              <!--  </div>-->
+              <!--</div>-->
             </div>
           </div>
         </div>
